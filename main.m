@@ -1,5 +1,5 @@
 % detects and captures edges in an image
-[edgeLinkedImage, distorted_img] = canny_edge_detector('distort4.png');
+[edgeLinkedImage, distorted_img] = canny_edge_detector('image/distort4.png');
 
 [H,theta,rho] = hough(edgeLinkedImage);
 P = houghpeaks(H,50,'threshold',ceil(0.3*max(H(:))));
