@@ -10,10 +10,8 @@ A program that corrects radial distortions in grayscale images.
 ## Test
 1. Open MATLAB and set the current directory to ../lens-correction-filter
 
-2. Run:
-   ```
-   >> main
-   ```
+2. Run: 
+`>> main`
    
 ### Input (Distorted) Image
 ![Distorted Image]
