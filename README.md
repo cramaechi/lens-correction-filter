@@ -19,8 +19,8 @@ Run:
 >> main
 ```
 ### Input (Distorted) Image
-![Distorted image]
-(https://github.com/cramaechi/lens-correction-filter/blob/master/image/distorted.png)
+![Distorted Image]
+(https://github.com/cramaechi/lens-correction-filter/blob/master/image/distort4.png)
 
 ### Final Output (Undistorted) Image
 ![Undistorted image]
