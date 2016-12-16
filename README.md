@@ -1,7 +1,7 @@
 # Lens Correction Filter
 A program that corrects radial distortions in grayscale images.
 
-## Setup
+## Install
 1. Clone: 
 `$ git clone https://github.com/cramaechi/lens-correction-filter.git` or [download as ZIP] (https://github.com/cramaechi/lens-correction-filter/archive/master.zip).
 
